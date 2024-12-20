@@ -99,7 +99,7 @@ sections:
       - type: Button
         label: Resume
         altText: ''
-        url: /
+        url: /resume
         showIcon: true
         icon: arrowRight
         iconPosition: right
