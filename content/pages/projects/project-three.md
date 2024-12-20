@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/PrintFarmProjectThumbnail.jpg
+  url: /images/PrintFarmProjectThumbnailV3.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
