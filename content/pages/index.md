@@ -17,9 +17,10 @@ sections:
       I'm Hayden- a hardware designer, electronics technician, engineer in
       almost every application, and a full-bred texan.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      After years of soul searching and personal discovery, I've found my
+      passion-- making things. When it comes to engineering, there is no one
+      principal that I enjoy the most. Making things require many steps.
+      Therefore,
     styles:
       self:
         height: auto
