@@ -97,7 +97,7 @@ sections:
       can continue to scroll down to see more details and credentials about me.
     actions:
       - type: Button
-        label: Hire me
+        label: Resume
         altText: ''
         url: /
         showIcon: true
