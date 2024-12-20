@@ -50,7 +50,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: ''
         altText: ''
         url: /
         showIcon: false
