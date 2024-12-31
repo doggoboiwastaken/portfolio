@@ -20,7 +20,7 @@ sections:
       After years of soul searching and personal discovery, I've found my
       passion-- making things. When it comes to engineering, there is no one
       principal that I enjoy the most. Making things require many steps.
-      Therefore,
+      Therefore, I never limit myself to one activity.
     styles:
       self:
         height: auto
