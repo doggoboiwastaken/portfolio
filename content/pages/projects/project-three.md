@@ -1,13 +1,12 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Print Farm
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  A print farm used by my engineering team for almost all processes. From design
+  to prototype to final cut, I was the main man. 
 featuredImage:
   type: ImageBlock
   url: /images/PrintFarmProjectThumbnailV5.jpg
