@@ -4,7 +4,9 @@ title: Print Farm
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: Print Farm
+description: >-
+  A print farm used by my engineering team for almost all processes. From design
+  to prototype to final cut, I was the main man. 
 featuredImage:
   type: ImageBlock
   url: /images/PrintFarmProjectThumbnailV5.jpg
