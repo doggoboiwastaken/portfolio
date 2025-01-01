@@ -101,7 +101,7 @@ sections:
         label: Resume
         altText: ''
         url: >-
-          https://drive.google.com/file/d/1h52aIjaDrD21QoNcme3U24ZiDM8IoEEO/view?usp=sharing
+          https://drive.usercontent.google.com/download?id=1h52aIjaDrD21QoNcme3U24ZiDM8IoEEO&export=download&authuser=0
         showIcon: true
         icon: arrowRight
         iconPosition: right
