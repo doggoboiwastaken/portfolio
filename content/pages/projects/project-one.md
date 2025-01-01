@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  While it's not professional, it's something that I enjoy thoroughly. I'm not a
+  While it's not professional, it's something that I thoroughly enjoy. I'm not a
   big gamer myself, but creating a server and hosting it for my friends excites
-  me. Surely you're interested in my side projects too, right?
+  me. Surely you're interested in my side projects, too, right?
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
