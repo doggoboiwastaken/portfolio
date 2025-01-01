@@ -100,7 +100,8 @@ sections:
       - type: Button
         label: Resume
         altText: ''
-        url: /resume
+        url: >-
+          https://drive.google.com/file/d/1h52aIjaDrD21QoNcme3U24ZiDM8IoEEO/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right
