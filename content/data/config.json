@@ -58,13 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "url": "mailto:haydenwhitaker@gmail.com",
                 "altText": ""
             },
             {
@@ -77,18 +71,23 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "(618) 510-9357",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "haydenwhitaker@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Arlington, TX",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
