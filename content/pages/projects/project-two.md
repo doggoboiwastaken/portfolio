@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: AVR - Advanced Vertical Robotics
 colors: colors-a
-date: '2024-11-20'
+date: '2024-11-01'
 client: Awesome client
 description: >-
   A robotics competition hosted by Bell Helicopters. I played a crucial role in
