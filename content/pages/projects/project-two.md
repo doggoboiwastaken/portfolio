@@ -5,8 +5,8 @@ colors: colors-a
 date: '2024-11-01'
 client: Awesome client
 description: >-
-  A robotics competition hosted by Bell Helicopters. I played a crucial role in
-  the development and operation of our brain-children. 
+  A robotics competition hosted by Bell Textron. I played a crucial role in the
+  development and operation of our brain-children. 
 featuredImage:
   type: ImageBlock
   url: /images/AVRThumbV1.jpg
